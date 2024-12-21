@@ -1,0 +1,201 @@
+2024-12-20 06:20:54, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:36:41, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:38:45, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:38:50, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:44:07, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:45:28, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:49:38,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 06:49:38,GET,hozwe,SQL Query Result: Array
+(
+    [0] => Array
+        (
+            [StallID] => 7
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 07
+            [isAvailable] => 0
+        )
+
+    [1] => Array
+        (
+            [StallID] => 8
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 08
+            [isAvailable] => 0
+        )
+
+    [2] => Array
+        (
+            [StallID] => 9
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 09
+            [isAvailable] => 0
+        )
+
+    [3] => Array
+        (
+            [StallID] => 10
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 010
+            [isAvailable] => 0
+        )
+
+    [4] => Array
+        (
+            [StallID] => 11
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 011
+            [isAvailable] => 0
+        )
+
+    [5] => Array
+        (
+            [StallID] => 12
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 012
+            [isAvailable] => 0
+        )
+
+    [6] => Array
+        (
+            [StallID] => 13
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 013
+            [isAvailable] => 0
+        )
+
+    [7] => Array
+        (
+            [StallID] => 14
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 014
+            [isAvailable] => 0
+        )
+
+    [8] => Array
+        (
+            [StallID] => 15
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 015
+            [isAvailable] => 0
+        )
+
+    [9] => Array
+        (
+            [StallID] => 16
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 016
+            [isAvailable] => 0
+        )
+
+    [10] => Array
+        (
+            [StallID] => 17
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 017
+            [isAvailable] => 0
+        )
+
+    [11] => Array
+        (
+            [StallID] => 18
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 018
+            [isAvailable] => 0
+        )
+
+    [12] => Array
+        (
+            [StallID] => 19
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 019
+            [isAvailable] => 0
+        )
+
+    [13] => Array
+        (
+            [StallID] => 20
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 020
+            [isAvailable] => 0
+        )
+
+    [14] => Array
+        (
+            [StallID] => 21
+            [StallholderID] => 
+            [StallName] => 
+            [StallNumber] => 021
+            [isAvailable] => 0
+        )
+
+)
+
+2024-12-20 06:49:38, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:55:00,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 06:55:00, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:55:38,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 06:55:38, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:59:07,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 06:59:07, GET, hozwe, Retrieved a new stall record
+2024-12-20 06:59:32,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 06:59:32, GET, hozwe, Retrieved a new stall record
+2024-12-20 07:00:45,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 07:00:45, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:20:14,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:20:14, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:20:54, POST, hozwe, Created a new stall record
+2024-12-20 08:21:04,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=024
+2024-12-20 08:21:04, GET, hozwe,No data found
+2024-12-20 08:21:14,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=8
+2024-12-20 08:21:14, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:21:19,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=24
+2024-12-20 08:21:19, GET, hozwe,No data found
+2024-12-20 08:21:21,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=22
+2024-12-20 08:21:21, GET, hozwe,No data found
+2024-12-20 08:21:24,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=10
+2024-12-20 08:21:24, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:21:26,GET,hozwe,Generated SQL Condition: isAvailable = 0 AND StallID=11
+2024-12-20 08:21:26, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:23:07,GET,hozwe,Generated SQL Condition: ReservationStatus = 0
+2024-12-20 08:23:07, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-20 08:28:11,GET,hozwe,Generated SQL Condition: ReservationStatus = 0
+2024-12-20 08:28:11, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-20 08:28:18,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:28:18, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:28:21,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:28:21, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:28:29,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:28:29, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:28:33,GET,hozwe,Generated SQL Condition: isAvailable = 1
+2024-12-20 08:28:33, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:28:53,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:28:53, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:29:27,GET,hozwe,Generated SQL Condition: ReservationStatus = 0
+2024-12-20 08:29:27, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-20 08:29:57,GET,hozwe,Generated SQL Condition: isAvailable = 0
+2024-12-20 08:29:57, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:30:23,GET,hozwe,Generated SQL Condition: isAvailable = 1
+2024-12-20 08:30:23, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:30:38, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:30:43, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:35:53, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:35:57, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:36:06, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:37:35, GET, hozwe, Retrieved a cancelled reservation record
+2024-12-20 08:39:36, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:39:43, GET, hozwe, Retrieved a new stall record
+2024-12-20 08:39:50, GET, hozwe, Retrieved a new stall record

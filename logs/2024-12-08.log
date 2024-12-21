@@ -1,0 +1,26 @@
+2024-12-08 14:48:24, GET, blahblah, Retrieved a new stall record
+2024-12-08 14:49:01, GET, blahblah, Retrieved a new stall record
+2024-12-08 14:54:39, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:46:17, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:46:30, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:47:30, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:47:33, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:47:39, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:47:43, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:53:34, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:53:47, GET, blahblah, Retrieved a new stall record
+2024-12-08 16:54:11, GET, blahblah, Retrieved a new stall record
+2024-12-08 17:13:24, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CONFIRMED' in 'where clause'
+2024-12-08 17:15:41, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CONFIRMED' in 'where clause'
+2024-12-08 17:16:29, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CONFIRMED' in 'where clause'
+2024-12-08 17:20:56, GET, blahblah,No data found
+2024-12-08 17:21:04, GET, blahblah, Retrieved a reservation record
+2024-12-08 17:24:28, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'reservation' in 'where clause'
+2024-12-08 17:24:54, GET, blahblah, Retrieved a reservation record
+2024-12-08 17:25:56, GET, blahblah,No data found
+2024-12-08 17:26:03, GET, blahblah, Retrieved a reservation record
+2024-12-08 17:26:37, GET, blahblah, Retrieved a reservation record
+2024-12-08 17:27:37, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'CONFIRMED' in 'where clause'
+2024-12-08 17:27:49, GET, blahblah,No data found
+2024-12-08 17:28:18, GET, blahblah,No data found
+2024-12-08 17:28:21, GET, blahblah, Retrieved a reservation record

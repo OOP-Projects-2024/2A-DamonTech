@@ -1,0 +1,12 @@
+2024-12-07 21:22:43, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:23:00, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+2024-12-07 21:23:13, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+2024-12-07 21:23:18, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:23:22, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+2024-12-07 21:23:27, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:24:03, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:24:07, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+2024-12-07 21:24:11, GET, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'where clause'
+2024-12-07 21:24:21, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:25:41, GET, blahblah, Retrieved a new stall record
+2024-12-07 21:25:44, GET, blahblah, Retrieved a new stall record

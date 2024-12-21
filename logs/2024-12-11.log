@@ -1,0 +1,25 @@
+2024-12-11 09:14:32, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:15:49, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:16:02, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:19:42, POST, hozwe, Created a new stallholder record
+2024-12-11 09:21:45, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '012' for key 'StallNo'
+2024-12-11 09:21:51, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:22:53, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:23:00, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:23:20, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-11 09:23:30, GET, hozwe, Retrieved a pending reservation record
+2024-12-11 09:23:43, GET, hozwe, Retrieved a cancelled reservation record
+2024-12-11 09:23:50, GET, hozwe, Retrieved a transaction record
+2024-12-11 09:41:14, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:42:54, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:44:18, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:44:37, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:45:00, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:47:35, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-11 09:47:53, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-11 09:48:16, GET, hozwe, Retrieved a pending reservation record
+2024-12-11 09:48:51, GET, hozwe, Retrieved a cancelled reservation record
+2024-12-11 09:49:02, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:49:05, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:49:08, GET, hozwe, Retrieved a new stall record
+2024-12-11 09:49:20, GET, hozwe, Retrieved an ongoing reservation record

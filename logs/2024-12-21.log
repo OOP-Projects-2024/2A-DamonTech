@@ -1,0 +1,106 @@
+2024-12-21 08:50:48, GET, hozwe, Retrieved a new stall record
+2024-12-21 08:50:53, GET, hozwe, Retrieved a new stall record
+2024-12-21 08:51:01, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-21 08:51:07, GET, hozwe, Retrieved a pending reservation record
+2024-12-21 08:51:14, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-21 09:09:37, GET, hozwe, Retrieved an ongoing reservation record
+2024-12-21 09:09:45, GET, hozwe, Retrieved a new stall record
+2024-12-21 09:09:49, GET, hozwe, Retrieved a new stall record
+2024-12-21 09:09:50, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:02:07, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:03:59, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:16:31, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 10:16:38, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:16:42, GET, hozwe,SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+2024-12-21 10:19:39, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:24:11, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:24:29, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:32:13, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:32:55, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:33:21, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:36:36, GET, hozwe,SQLSTATE[HY000]: General error: 2031 No data supplied for parameters in prepared statement
+2024-12-21 10:50:20, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:51:48, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '024' for key 'StallNumber'
+2024-12-21 10:52:19, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '024' for key 'StallNumber'
+2024-12-21 10:53:07, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:53:14, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:53:25, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:53:50, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:54:31, GET, hozwe, Retrieved a new stall record
+2024-12-21 10:54:37, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '21' for key 'PRIMARY'
+2024-12-21 10:54:45, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '021' for key 'StallNumber'
+2024-12-21 10:55:08, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`marketstall_db`.`stall_tbl`, CONSTRAINT `stall_tbl_ibfk_1` FOREIGN KEY (`StallholderID`) REFERENCES `stallholder_tbl` (`StallholderID`))
+2024-12-21 10:56:58, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:00:55, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7' for key 'PRIMARY'
+2024-12-21 11:01:20, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`marketstall_db`.`stall_tbl`, CONSTRAINT `stall_tbl_ibfk_1` FOREIGN KEY (`StallholderID`) REFERENCES `stallholder_tbl` (`StallholderID`))
+2024-12-21 11:01:31, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`marketstall_db`.`stall_tbl`, CONSTRAINT `stall_tbl_ibfk_1` FOREIGN KEY (`StallholderID`) REFERENCES `stallholder_tbl` (`StallholderID`))
+2024-12-21 11:02:20, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:03:04, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '07' for key 'StallNumber'
+2024-12-21 11:06:51, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '07' for key 'StallNumber'
+2024-12-21 11:11:39, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:11:52, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:11:55, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:12:02, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:12:08, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:12:16, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:12:21, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:12:34, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:14:24, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:14:30, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:14:36, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:15:03, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:36:36, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '012' for key 'StallNo'
+2024-12-21 11:36:43, POST, hozwe, Created a new stallholder record
+2024-12-21 11:37:56, POST, hozwe, Created a new stallholder record
+2024-12-21 11:38:43, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:40:28, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '014' for key 'StallNumber'
+2024-12-21 11:42:10, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '014' for key 'StallNumber'
+2024-12-21 11:55:28, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:55:36, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:55:38, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:55:56, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 11:56:46, POST, hozwe, Created a new stallholder record
+2024-12-21 11:56:51, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:57:01, GET, hozwe, Retrieved a new stall record
+2024-12-21 11:58:07, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '6' for key 'PRIMARY'
+2024-12-21 11:58:31, POST, hozwe, Created a new stall record
+2024-12-21 12:05:07, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:08:27, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:27:46, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:27:50, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:33:24, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:33:36, GET, hozwe, Retrieved a new stall record
+2024-12-21 12:39:35,GET,hozwe,Retrieved an ongoing reservation record
+2024-12-21 13:05:53, GET, hozwe,No data found
+2024-12-21 13:15:53,GET,hozwe,Retrieved a new stall record
+2024-12-21 13:18:53, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`marketstall_db`.`stall_tbl`, CONSTRAINT `stall_tbl_ibfk_1` FOREIGN KEY (`StallholderID`) REFERENCES `stallholder_tbl` (`StallholderID`))
+2024-12-21 13:20:32, POST, hozwe,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '7' for key 'PRIMARY'
+2024-12-21 13:20:37, POST, hozwe, Created a new stall record
+2024-12-21 13:22:20,GET,hozwe,Retrieved an ongoing reservation record
+2024-12-21 13:37:28, GET, hozwe, Retrieved a new stall record
+2024-12-21 13:40:17, POST, hozwe, Created a new stall record
+2024-12-21 13:40:57, GET, hozwe, Retrieved a new stall record
+2024-12-21 13:41:46, GET, hozwe, Retrieved a new stall record
+2024-12-21 13:41:53, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 13:42:59, POST, hozwe, Created a new stallholder record
+2024-12-21 13:43:09, GET, hozwe, Retrieved a new stall record
+2024-12-21 13:43:14, POST, hozwe,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-21 13:49:31, GET, hozwe, Retrieved a new stall record
+2024-12-21 13:50:38, GET, hozwe, Retrieved a new stall record
+2024-12-21 14:01:03, GET, hozwe, Retrieved a stall records
+2024-12-21 14:01:27, GET, hozwe, Retrieved a stall records
+2024-12-21 14:04:36, GET, hozwe, Retrieved a new stall record
+2024-12-21 14:06:21, GET, hozwe, Retrieved a new stall record
+2024-12-21 14:06:50, GET, hozwe, Retrieved a new stall record
+2024-12-21 14:07:05, GET, hozwe, Retrieved a stall records
+2024-12-21 14:07:33, GET, hozwe, Retrieved a transaction record
+2024-12-21 14:07:54, GET, hozwe, Retrieved a transaction record
+2024-12-21 14:14:39, GET, hozwe, Retrieved a stall records
+2024-12-21 14:23:42, GET, hozwe, Retrieved a new stall record
+2024-12-21 14:37:09,GET,hozwe,Retrieved an ongoing reservation record
+2024-12-21 14:44:05,GET,hozwe,Retrieved an ongoing reservation record
+2024-12-21 14:44:15,GET,hozwe,Retrieved a cancelled reservations record
+2024-12-21 14:46:53,GET,hozwe,Retrieved a cancelled reservations record
+2024-12-21 14:47:20,GET,hozwe,Retrieved a cancelled reservations record
+2024-12-21 14:51:45,GET,hozwe,Retrieved a cancelled reservations record
+2024-12-21 14:56:04,GET,hozwe,Retrieved a cancelled reservations record

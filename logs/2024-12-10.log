@@ -1,0 +1,37 @@
+2024-12-10 12:17:49, GET, blahblah, Retrieved a new stall record
+2024-12-10 12:18:15, GET, blahblah, Retrieved a new stall record
+2024-12-10 17:20:46, GET, blahblah, Retrieved a new stall record
+2024-12-10 17:49:22, POST, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Username' in 'field list'
+2024-12-10 17:49:32, GET, blahblah, Retrieved a new stall record
+2024-12-10 17:49:53, GET, blahblah, Retrieved a new stall record
+2024-12-10 17:49:58, POST, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-10 20:30:18, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:30:28, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:30:38, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:30:56, POST, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-10 20:31:26, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:31:41, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:31:46, POST, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'data' in 'field list'
+2024-12-10 20:36:48, POST, blahblah,SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '06' for key 'StallNo'
+2024-12-10 20:37:23, POST, blahblah, Created a new stallholder record
+2024-12-10 20:39:43, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:40:01, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:40:29, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:44:10, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:44:31, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:44:50, POST, blahblah, Created a new stall record
+2024-12-10 20:45:01, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:48:29, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:52:42, GET, blahblah, Retrieved a new stall record
+2024-12-10 20:53:01, GET, blahblah, Retrieved a reservation record
+2024-12-10 20:56:01, GET, blahblah, Retrieved a transaction record
+2024-12-10 20:56:49, POST, blahblah,SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Amount' in 'field list'
+2024-12-10 20:57:27, POST, blahblah, Created a new transaction record
+2024-12-10 21:05:59, GET, blahblah, Retrieved an ongoing reservation record
+2024-12-10 21:06:47, GET, blahblah, Retrieved a cancelled reservation record
+2024-12-10 21:07:01, GET, blahblah, Retrieved a new stall record
+2024-12-10 21:07:13, GET, blahblah, Retrieved an ongoing reservation record
+2024-12-10 21:08:43, GET, blahblah, Retrieved an ongoing reservation record
+2024-12-10 21:08:56, GET, blahblah, Retrieved a new stall record
+2024-12-10 21:09:07, GET, blahblah, Retrieved a new stall record
+2024-12-10 21:09:53, GET, blahblah, Retrieved an ongoing reservation record
